@@ -1,4 +1,6 @@
-### Hi there 👋
+### STARTERGATE - 최호승
+
+##### Hi there! Welcome to my GitHub profile! 👋
 
 <!--
 **startergate/startergate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🏫 I’m currently studying on ...
+* Gwangju Software Meister School 3rd Grade
+
+#### 🔭 I’m using ...
+* Node.js
+* TypeScript
+* Python
+* Django
+* Unity
+
+#### 🌱 I’m currently learning ...
+* React.js
+* Android
+* Electron
+* Spring
+* Machine Learning
+* [School Studies](https://github.com/startergate-learns-stuff)
+* [Etc...](https://github.com/startergate-weekly)
