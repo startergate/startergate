@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 * Android
 * Electron
 * Spring
+* Golang
 * Machine Learning
 * [School Studies](https://github.com/startergate-learns-stuff)
 * [Etc...](https://github.com/startergate-weekly)
