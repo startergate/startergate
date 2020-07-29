@@ -25,7 +25,6 @@
 
 #### 🌱 I’m currently learning ...
 * React.js
-* Android
 * Electron
 * Spring
 * Golang
