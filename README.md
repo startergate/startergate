@@ -1,7 +1,7 @@
 ### STARTERGATE - 최호승
 
 ##### Hi there! Welcome to my GitHub profile! 👋
-![Github Status](https://github-readme-stats.vercel.app/api?username=startergate&theme=tokyonight)
+![Github Status](https://github-readme-stats.vercel.app/api?username=startergate&show_icons=true&count_private=true&theme=tokyonight)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
