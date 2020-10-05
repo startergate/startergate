@@ -21,8 +21,7 @@
 * Unity
 
 #### 🌱 I’m currently learning ...
-* React.js/Gatsby.js
-
+* React.js / Gatsby.js
 * Electron
 * Golang
 * Unreal Engine
