@@ -14,16 +14,14 @@
 * Gwangju Software Meister School 3rd Grade
 
 #### 🔭 I’m currently using ...
-* Node.js
-* TypeScript
+* Node.js + TypeScript
+* Koa.js
 * Python
-* Django
- * Django REST Framework
+* Django + DRF
 * Unity
 
 #### 🌱 I’m currently learning ...
-* React.js / Gatsby.js
-* Electron
+* React.js / Gatsby.js / Electron
 * Golang
 * Unreal Engine
 * Machine Learning
