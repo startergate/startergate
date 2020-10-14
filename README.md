@@ -11,7 +11,7 @@
 -->
 
 #### 🏫 I’m currently studying on ...
-* Gwangju Software Meister School (~ 2020.1)
+* Gwangju Software Meister School (~ 2021.1)
 
 #### 🔭 I’m currently using ...
 * Node.js + TypeScript
