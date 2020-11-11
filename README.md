@@ -1,5 +1,7 @@
 ### [STARTERGATE - 최호승](https://startergate.dev)
 
+Learn, Find, Figure Out
+
 ![Github Status](https://github-readme-stats.vercel.app/api?username=startergate&show_icons=true&count_private=true&theme=tokyonight)
 <!--
 - 🔭 I’m currently working on ...
