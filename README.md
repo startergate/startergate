@@ -26,6 +26,5 @@ Learn, Find, Figure Out
 * React.js / Gatsby.js / Electron
 * Golang
 * Unreal Engine
-* Machine Learning
 * [School Studies](https://github.com/startergate-learns-stuff)
 * [Etc...](https://github.com/startergate-weekly)
