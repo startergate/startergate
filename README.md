@@ -13,9 +13,10 @@ Learn, Find, Figure Out
 -->
 
 #### 🏫 I’m currently studying on ...
-* Gwangju Software Meister School (~ 2021.1)
+* Gwangju Software Meister School 3rd Grade (~ 2021.1)
 
 #### 🔭 I’m currently using ...
+* TypeScript
 * Node.js + TypeScript
 * Koa.js
 * Python
