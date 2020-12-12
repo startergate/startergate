@@ -21,7 +21,7 @@ Learn, Find, Figure Out
 * Koa.js
 * Python
 * Django + DRF
-* Unity
+* Unity @tiny-beluga
 
 #### 🌱 I’m currently learning ...
 * React.js / Gatsby.js / Electron
