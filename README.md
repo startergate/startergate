@@ -13,7 +13,7 @@
 -->
 
 #### 🏫 I’m currently studying on ...
-* Gwangju Software Meister School 3rd Grade (~ 2021.1, Expected)
+* Gwangju Software Meister School 3rd Grade (2018.3 ~ 2021.1, Expected)
 
 #### 🔭 I’m currently using ...
 * TypeScript
