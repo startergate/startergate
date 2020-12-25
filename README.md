@@ -29,5 +29,5 @@
 * React.js / Gatsby.js / Electron
 * Golang
 * Unreal Engine
-* [School Studies](https://github.com/startergate-learns-stuff)
+* [Studies...](https://github.com/startergate-learns-stuff)
 * [Etc...](https://github.com/startergate-weekly)
