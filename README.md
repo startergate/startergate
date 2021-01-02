@@ -14,9 +14,6 @@
 #### 🔭 I’m currently working on ...
 * Backend Engineer @ [FETCHING](https://github.com/Fetching-Korea) (2020.12 ~ )
 
-#### 🏫 I’m currently studying on ...
-* Gwangju Software Meister School 3rd Grade (2018.3 ~ 2021.1)
-
 #### 🔭 I’m currently using ...
 * TypeScript
 * Node.js + TypeScript
@@ -31,3 +28,6 @@
 * Unreal Engine
 * [Studies...](https://github.com/startergate-learns-stuff)
 * [Etc...](https://github.com/startergate-weekly)
+
+#### 🏫 I studied on ...
+* Gwangju Software Meister School 3rd Grade (2018.3 ~ 2021.1)
