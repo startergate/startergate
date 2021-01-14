@@ -30,4 +30,4 @@
 * [Etc...](https://github.com/startergate-weekly)
 
 #### 🏫 I studied on ...
-* Gwangju Software Meister School 3rd Grade (2018.3 ~ 2021.1)
+* Gwangju Software Meister School (2018.3 ~ 2021.1)
