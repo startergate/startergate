@@ -15,9 +15,8 @@
 * Backend Engineer @ [FETCHING](https://github.com/Fetching-Korea) [#](https://fetching.co.kr/) (2020.12 ~ )
 
 #### 🔭 I’m currently using ...
-* TypeScript
 * Node.js + TypeScript
-* Koa.js
+* Koa.js & Nest.js
 * Python
 * Django + DRF
 * Unity @ [Tiny Beluga](https://github.com/tiny-beluga)
