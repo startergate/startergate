@@ -16,7 +16,7 @@
 
 #### 🔭 I’m currently using ...
 * Node.js + TypeScript
-* Koa.js & Nest.js
+* Express.js & Koa.js & Nest.js
 * Python
 * Django + DRF
 * Unity @ [Tiny Beluga](https://github.com/tiny-beluga)
