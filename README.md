@@ -28,8 +28,8 @@
 * [Studies...](https://github.com/startergate-learns-stuff)
 * [Etc...](https://github.com/startergate-weekly)
 
-#### 🏫 I studied on ...
-* Gwangju Software Meister High School (2018.3 ~ 2021.1)
-
 #### 🔭 I previously worked on
 * Backend Engineer @ Peoplefund (2020.01 ~ 2020.02)
+
+#### 🏫 I studied on ...
+* Gwangju Software Meister High School (2018.3 ~ 2021.1)
