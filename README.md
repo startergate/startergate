@@ -29,7 +29,7 @@
 * [Etc...](https://github.com/startergate-weekly)
 
 #### 🔭 I previously worked on
-* Backend Engineer @ Peoplefund (2020.01 ~ 2020.02)
+* Backend Engineer @ [Peoplefund](https://www.peoplefund.co.kr) (2020.01 ~ 2020.02)
 
 #### 🏫 I studied on ...
-* Gwangju Software Meister High School (2018.3 ~ 2021.1)
+* [Gwangju Software Meister High School](http://gsm.gen.hs.kr) (2018.3 ~ 2021.1)
