@@ -30,6 +30,7 @@
 
 #### 🔭 I previously worked on
 * Backend Engineer @ [Peoplefund](https://www.peoplefund.co.kr) (2020.01 ~ 2020.02)
-
+<!--
 #### 🏫 I studied on ...
 * [Gwangju Software Meister High School](http://gsm.gen.hs.kr) (2018.3 ~ 2021.1)
+-->
