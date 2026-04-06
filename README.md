@@ -11,8 +11,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-#### 🔭 I’m currently working as ...
-* Backend Engineer @ [FETCHING](https://github.com/Fetching-Korea) (2020.12 ~ 2026 Q2)
+<!--#### 🔭 I’m currently working as ...-->
+
 
 #### 🔭 I’m currently using ...
 * Node.js + TypeScript
@@ -30,6 +30,7 @@
 
 #### 🔭 I previously worked on
 * Backend Engineer @ [Peoplefund](https://www.peoplefund.co.kr) (2020.01 ~ 2020.02)
+* Backend Engineer @ [FETCHING](https://github.com/Fetching-Korea) (2020.12 ~ 2026.03)
 <!--
 #### 🏫 I studied on ...
 * [Gwangju Software Meister High School](http://gsm.gen.hs.kr) (2018.3 ~ 2021.1)
