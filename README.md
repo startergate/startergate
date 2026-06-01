@@ -28,10 +28,10 @@
 * [Studies...](https://github.com/startergate-learns-stuff)
 * [Etc...](https://github.com/startergate-weekly)
 
-#### 🔭 I previously worked on
+#### 🔭 I previously worked as
 * Backend Engineer @ [Peoplefund](https://www.peoplefund.co.kr) (2020.01 ~ 2020.02)
 * Backend Engineer @ [FETCHING](https://github.com/Fetching-Korea) (2020.12 ~ 2026.03)
 <!--
-#### 🏫 I studied on ...
+#### 🏫 I studied in ...
 * [Gwangju Software Meister High School](http://gsm.gen.hs.kr) (2018.3 ~ 2021.1)
 -->
