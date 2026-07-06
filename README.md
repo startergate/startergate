@@ -2,7 +2,7 @@
 
 #### Learn, Find, Figure Out
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=startergate&show_icons=true&count_private=true&theme=tokyonight)
+![Github Status](https://github-stats-extended.vercel.app/api?username=startergate&show_icons=true&count_private=true&theme=tokyonight)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,10 +15,7 @@
 
 
 #### 🔭 I’m currently using ...
-* Node.js + TypeScript
-* Express.js & Koa.js & Nest.js
-* Python
-* Django + DRF
+* Node.js + TypeScript & Nest.js
 * Unity @ [Tiny Beluga](https://github.com/tiny-beluga)
 
 #### 🌱 I’m currently learning ...
