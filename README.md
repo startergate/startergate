@@ -2,7 +2,7 @@
 
 #### Learn, Find, Figure Out
 
-![Github Status](https://github-stats-extended.vercel.app/api?username=startergate&show_icons=true&count_private=true&theme=tokyonight)
+[![Github Status](https://github-stats-extended.vercel.app/api?username=startergate&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/jknuezca/github-stats-extended)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
